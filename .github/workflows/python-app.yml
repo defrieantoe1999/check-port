@@ -16,7 +16,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: ubuntuwsl
+    runs-on: kampus
 
     steps:
     - uses: actions/checkout@v3
