@@ -6,7 +6,7 @@ on:
 jobs:
 
   docker:
-    runs-on: ubuntu-latest
+    runs-on: kampus
     steps:
       -
         name: Set up QEMU
